@@ -24,6 +24,34 @@ p {
     margin: 0 auto;
 }
 
+.about-me {
+    margin-top: 30px;
+    padding: 20px;
+    background: #ffffff;
+    width: 100%;
+    max-width: 900px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.about-me h2 {
+    color: #1e3a8a;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.about-me ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-me li {
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+
 .skills {
     margin-top: 30px;
     padding: 20px;
